@@ -1,5 +1,4 @@
 ### Hi there It's me Md. Saiful Islam 👋
-[![HitCount](http://hits.dwyl.com/SaifulJnU/SaifulJnU.svg)](http://hits.dwyl.com/SaifulJnU/SaifulJnU)
 ### Gist About me
 🎤 I am a passonate Backend and Frontend developer.<br>
 🛸 Learning everyday, currently learning to master GraphQL, React, TS, ML, AI etc ...<br>
