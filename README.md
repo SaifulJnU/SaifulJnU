@@ -1,7 +1,7 @@
 ### Hi there It's me Md. Saiful Islam 👋
 ### Gist About me
-🎤 I am a passonate Backend and Frontend developer.<br>
-🛸 Learning everyday, currently learning to master GraphQL, React, TS, ML, AI etc ...<br>
+🎤 I am a passonate Backend and Frontend development.<br>
+🛸 Learning everyday, currently learning to master GraphQL, React, TS, Blockchain etc ...<br>
 🌋 I’m always looking for challenging work oppurtunities ahead. <br>
 📺 Share things I know and learn in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCSy3zROQsaLCKBn7TNZEeZw)<br>
 📬 How to reach me:<a href="mailto:saiful.cse98@gmail.com"> Let's get in touch! </a><br>
