@@ -1,11 +1,19 @@
-### Hi there It's me Md. Saiful Islam 👋
+# Hi there It's me Md. Saiful Islam 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saifuljnu&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Gist About me
 🎤 I am a passonate Backend and Frontend development.<br>
-🛸 Learning everyday, currently learning to master GraphQL, React, TS, Blockchain etc ...<br>
+🛸 Learning everyday, currently learning to master SQL, React, Solidity, Blockchain etc ...<br>
 🌋 I’m always looking for challenging work oppurtunities ahead. <br>
 📺 Share things I know and learn in my Youtube Channel [Take a Peek](https://www.youtube.com/channel/UCSy3zROQsaLCKBn7TNZEeZw)<br>
 📬 How to reach me:<a href="mailto:saiful.cse98@gmail.com"> Let's get in touch! </a><br>
-🧗🏾‍♀️ I try to: Go beyond and push the bounds.
+🧗🏾‍♀️ I try to: Go beyond and push the bounds
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifuljnu&show_icons=true&locale=en&layout=compact" alt="saiful" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifuljnu&show_icons=true&locale=en" alt="saiful" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifuljnu&" alt="saiful" /></p>
+
 
 ### Other places you can find me
 🎥 [Subscribe my Youtube](https://www.youtube.com/channel/UCSy3zROQsaLCKBn7TNZEeZw)<br>
