@@ -1,8 +1,9 @@
-# Hi there It's me Md. Saiful Islam 👋
-
+# Hi there, It's me Md. Saiful Islam 👋   
+<!--  ![Visitor Count](https://profile-counter.glitch.me/{SaifulJnU}/count.svg) -->
+![](https://komarev.com/ghpvc/?username=saifuljnu&label=PROFILE+VIEWS) <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=saifuljnu&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Gist About me
+## Gist About me
 🎤 I am a passonate Backend and Frontend development.<br>
 🛸 Learning everyday, currently learning to master SQL, React, Solidity, Blockchain etc ...<br>
 🌋 I’m always looking for challenging work oppurtunities ahead. <br>
@@ -22,3 +23,4 @@
 
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I like **front-end** development with React/Gatsby/Vue/TS/Redwood and sometimes Node and **back-end** development with Django/Laravel. I love trying out new technologies and update with modern tools helping our lives more easier
 ### Happy coding !!
+
