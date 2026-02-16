@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
 </p>
 
-## 💫 About Me:
+## 💫 About Me
 
 👨‍💻 I am a Backend Software Engineer specializing in Golang, and scalable microservices.<br>
 🌍 Currently doing MS in Data Science at TU Dortmund University, Germany.<br>
@@ -20,14 +20,14 @@
 
 ---
 
-## 🌐 Get Connected:
+## 🌐 Get Connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saiful-islam-45290513b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiful.cse98@gmail.com)
 
 ---
 
-## 💻 Tech Stack & Tools:
+## 💻 Tech Stack & Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=saifuljnu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saifuljnu&theme=tokyonight&hide_border=false)<br/>
