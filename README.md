@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-👨‍💻 I'm a Software Engineer with interests in Backend Development, AI Systems, Cloud Infrastructure, DevOps, and Full-Stack Technologies. Passionate about building scalable, reliable, and intelligent software solutions <br>
+👨‍💻 I'm a Software Engineer with interests in Backend Development, AI Systems, Cloud Infrastructure, DevOps, and Full-Stack Technologies. Passionate about building scalable, reliable, and intelligent software solutions. <br>
 🌍 Currently doing MS in Data Science at TU Dortmund University, Germany.<br>
 ⚡ I have professional experience building high-performance backend systems using Go, PostgreSQL, MongoDB, and AWS.<br>
 ☁️ Passionate about Cloud-Native architecture, Kubernetes, system design and AI-ML.<br>
