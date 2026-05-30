@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saifuljnu&label=Profile%20views&color=00ADD8&style=flat" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md. Saiful Islam</h1>
 
 <!-- Animated typing effect -->
@@ -12,7 +16,7 @@
 
 ## 💫 About Me
 
-👨‍💻 I am a Backend Software Engineer specializing in Golang, and scalable microservices.<br>
+👨‍💻 I'm a Software Engineer with interests in Backend Development, AI Systems, Cloud Infrastructure, DevOps, and Full-Stack Technologies. Passionate about building scalable, reliable, and intelligent software solutions <br>
 🌍 Currently doing MS in Data Science at TU Dortmund University, Germany.<br>
 ⚡ I have professional experience building high-performance backend systems using Go, PostgreSQL, MongoDB, and AWS.<br>
 ☁️ Passionate about Cloud-Native architecture, Kubernetes, system design and AI-ML.<br>
@@ -69,21 +73,15 @@
 | Position | Company | Focus Area | 
 |----------|------------|------------|
 | Backend Software Engineer | Shikho Technologies Bangladesh Limited.| Golang, Microservice, MongoDB, PostgreSQL, Docker, gRPC, REST, Graphql, NATs |
-| Blockchain Developer (Intern) | AHOM Limited | Reverse Engineering, Cosmos-SDK, Golang |
+| Blockchain Developer (Intern) | AHOM Limited | Reverse Engineering, Cosmos-SDK, Golang, ReactJS |
 
 ---
 
 ## 🎯 Core Engineering Interests
 
-- Distributed Systems and ML
+- Distributed Systems and AI/ML
 - Cloud-Native Applications  
 - System Design & Performance Optimization  
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saifuljnu&label=Profile%20views&color=00ADD8&style=flat" />
-</p>
 
 ---
 
