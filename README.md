@@ -6,7 +6,7 @@
 
 <!-- Animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20(Golang)%20%7C%20Problem%20Solver%20%7C%20Distributed%20Systems%20Enthusiast&font=Fira%20Code&center=true&width=1100&height=50&size=24&duration=3000&pause=1500&color=00ADD8" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI/Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Distributed%20Systems%20Enthusiast&font=Fira%20Code&center=true&width=1100&height=50&size=24&duration=3000&pause=1500&color=00ADD8" />
 </p>
 
 <!-- Animated wave -->
