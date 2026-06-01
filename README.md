@@ -56,6 +56,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/VectorDB-4A90E2?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7B61FF?style=for-the-badge)
 
 
 ---
