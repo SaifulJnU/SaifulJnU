@@ -75,7 +75,7 @@
 
 | Position | Company | Focus Area | 
 |----------|------------|------------|
-| Backend Software Engineer | Shikho Technologies Bangladesh Limited.| Golang, Microservice, MongoDB, PostgreSQL, Docker, gRPC, REST, Graphql, NATs |
+| Backend Software Engineer | Shikho Technologies Bangladesh Limited.| Golang, Microservice, MongoDB, PostgreSQL, Docker, gRPC, REST, Graphql, NATs, RAG, VectorDB, MCP |
 | Blockchain Developer (Intern) | AHOM Limited | Reverse Engineering, Cosmos-SDK, Golang, ReactJS |
 
 ---
